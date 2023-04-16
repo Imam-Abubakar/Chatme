@@ -1,4 +1,5 @@
 # Chatme - A full-stack realtime messaging chat application
+![1](https://user-images.githubusercontent.com/54324954/232344054-11459b84-aff9-4bad-a155-676ce9bf3475.png)
 
 ## Features
 - Real-time messaging feature
